@@ -2,7 +2,7 @@
 
 http://caseyyee.github.io/vr-webgl-boilerplate
 
-Basic VR WebGL scene built using three.js for use in VR enabled browsers.  This also includes a client library for integration with  [JAVRIS](https://github.com/potch/JAVRIS "JAVRIS").
+Basic VR WebGL scene built using three.js for use in VR enabled browsers.  This also includes a client library for integration with  [JAVRIS](https://github.com/caseyyee/JAVRIS "JAVRIS").
 
 ### Viewing this example
 
